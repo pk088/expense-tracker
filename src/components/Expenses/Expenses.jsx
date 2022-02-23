@@ -6,7 +6,7 @@ import ExpenseChart from './ExpenseChart';
 
 const Expenses = ( {expenseData} ) => {
 
-    const [filteredyear, setFilteredyear] = useState("2020");
+    const [filteredyear, setFilteredyear] = useState("2021");
 
     const updatefilteryear = (year) => {
         // console.log("In the Expenses");

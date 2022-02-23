@@ -4,7 +4,7 @@ import "./ExpenseForm.css";
 
 const ExpenseForm = (props) => {
 
-    const [title, setTitle] = useState("Prajwal");
+    const [title, setTitle] = useState("New Expense");
     const [amount, setAmount] = useState(0);
     const [date, setDate] = useState();
 

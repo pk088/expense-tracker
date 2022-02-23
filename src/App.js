@@ -15,28 +15,28 @@ function App() {
       // date: "12 March 2021",
       date: new Date(2021,2,12),
       item: "New TV",
-      price: 800
+      price: 24000
     },
     {
       id: "exp2",
       // date: "12 March 2021",
       date: new Date(2021,10,28),
       item: "Car Insurance",
-      price: 300
+      price: 8000
     },
     {
       id: "exp3",
       // date: "12 March 2021",
       date: new Date(2021,5,12),
       item: "New Desk (Wooden)",
-      price: 500
+      price: 15000
     },
     { 
       id: "exp4",
       // date: "12 March 2021",
       date: new Date(2021,0,12),
       item: "New Laptop",
-      price: 100
+      price: 50000
     }
   ])
   
