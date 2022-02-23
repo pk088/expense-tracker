@@ -1,0 +1,17 @@
+.Expense-filter__control{
+    display: flex;
+    align-items: center;
+    padding: 5px 20px;
+    justify-content: space-between;
+}
+
+.Expense-filter__control label{
+    color: white;
+    /* font-family: fantasy; */
+}
+
+.Expense-filter__control select{
+    font-size: 1rem;
+    padding: 5px 40px;
+    border-radius: 5px;
+}
