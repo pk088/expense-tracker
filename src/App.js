@@ -28,7 +28,7 @@ function App() {
       id: "exp3",
       // date: "12 March 2021",
       date: new Date(2021,5,12),
-      item: "New Desk (Wooden)",
+      item: "New Desk",
       price: 15000
     },
     { 
